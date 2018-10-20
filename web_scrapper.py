@@ -1,21 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
-import numpy as np
-import webbrowser
 
 page_counter = 1
-
-page_url = "https://www.xeno-canto.org/explore?dir=0&order=xc&pg="
-
-#print(page_url + str(page_counter))
-
-page = requests.get(page_url+ str(page_counter))
-
-soup = BeautifulSoup(page.text,'lxml')
-
-table = soup.find(class_="results")
-rows = table.find_all('tr')
-data =[]
+page_url     = "https://www.xeno-canto.org/explore?dir=0&order=xc&pg="
+download_url = "https://www.xeno-canto.org"
+page         = requests.get(page_url+ str(page_counter))
+soup         = BeautifulSoup(page.text,'lxml')
+table        = soup.find(class_="results")
+rows         = table.find_all('tr')
+data         = []
+data_two     = []
 
 for row in range (1,len(rows)):
     cols = rows[row].find_all('td')
@@ -31,19 +25,24 @@ for row in range (1,len(rows)):
             info = cols[col].find('a')
             
             if 'download' in str(info):
-                print(info['href'])
                 info = info['href']
             else:
                 info = info.contents[0]
-            
-        #elif cols[col].find('img') !=[]:#,attrs = {'title'})
-            #info = cols[col].find('img')
-            #print(info)
-           
-        data.append(info)#str(cols[col].contents[0]))
-        
+        info = " ".join(str(info).split())        
+        data_two.append(info)
+    data.append(data_two)
+
 f = open("test.txt","w")
 for i in range(0,len(data)):
-    f.write(str(data[i]) + "\n")
+    for j in range(0,len(cols)):
+        f.write(str(data[i][j]) + "\n\n")
 
 f.close()
+
+print("Downloading...")
+r = requests.get(download_url + str(data[3][10]),stream=True)
+with open(str(data[3][11])+".mp3",'wb') as f:
+    for chunk in r.iter_content(chunk_size = 1024):
+        if chunk:
+            f.write(chunk)
+print("...Done")

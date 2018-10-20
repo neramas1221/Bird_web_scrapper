@@ -1,420 +1,780 @@
-Manchurian Bush Warbler
+Ruddy Turnstone
 
-        0:26
-        
-Jonas Buddemeier
+0:03
+
+Gaëtan Mineau
+
 2018-10-19
- 16:05
-China
-Tangshan Shi, Hebei Sheng
--20
-call 
-bird-seen:yes
-/439297/download
-XC439297 
-Hooded Crow
 
-        0:19
-        
-Ptice Forum
-2018-10-18
- 11:30
-Slovenia
-Maribor, Slovenija
-280
-call 
-Siva vrana
-/439296/download
-XC439296 
-Goldcrest
+01:30
 
-        2:13
-        
-Elias A. Ryberg
-2018-09-08
- 18:25
-Norway
-Brumunddal, Langodden, Furnesfjorden 
-120
-call, song 
-bird-seen:yes
-/439295/download
-XC439295 
-Green Oriole
+France
 
-        1:16
-        
-Marc Anderson
-2018-08-31
- 09:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-song 
-bird-seen:no
-/439294/download
-XC439294 
-Masked Lapwing
+Augan, Morbihan, Bretagne
 
-        0:40
-        
-Marc Anderson
-2018-08-31
- 09:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-call 
-bird-seen:no
-/439293/download
-XC439293 
-Blue-winged Kookaburra
+90
 
-        2:00
-        
-Marc Anderson
-2018-08-31
- 05:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-song 
-bird-seen:no
-/439292/download
-XC439292 
-Forest Kingfisher
+Migrating bird, flight call
 
-        0:16
-        
-Marc Anderson
-2018-08-31
- 07:30
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-song 
-bird-seen:no
-/439291/download
-XC439291 
-Forest Kingfisher
+low frequences filter <500Hz
 
-        0:15
-        
-Marc Anderson
-2018-08-31
- 07:30
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-call 
-bird-seen:no
-/439290/download
-XC439290 
-Rufous-banded Honeyeater
+/439390/download
 
-        0:09
-        
-Marc Anderson
-2018-08-31
- 07:30
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-song 
-bird-seen:no
-/439289/download
-XC439289 
-Blue-faced Honeyeater
+XC439390
 
-        2:01
-        
-Marc Anderson
-2018-08-31
- 05:30
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-song 
-Typical upslurred whistles at dawn
-/439288/download
-XC439288 
-White-necked Heron
+Cambodian Tailorbird
 
-        0:14
-        
-Marc Anderson
-2018-08-31
- 08:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-call 
-bird-seen:no
-/439287/download
-XC439287 
-Great Egret
+Ruddy Turnstone
 
-        0:15
-        
-Marc Anderson
-2018-08-31
- 08:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-call 
-Some 'urrgh' calls of White-necked Heron in this cut as well.
-/439286/download
-XC439286 
-Spangled Drongo
+0:03
 
-        0:46
-        
-Marc Anderson
-2018-08-31
- 08:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-call 
-Scratchy calls along with the commonly heard high-pitched notes which sound like Brown Goshawk mimicry. Also mimicry of Blue-faced Honeyeater in this cut.
-/439285/download
-XC439285 
-Sarus Crane
+Gaëtan Mineau
 
-        1:01
-        
-Marc Anderson
-2018-08-31
- 08:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-call 
-bird-seen:no
-/439284/download
-XC439284 
-Sarus Crane
+2018-10-19
 
-        0:41
-        
-Marc Anderson
-2018-08-31
- 08:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-call 
-bird-seen:no
-/439283/download
-XC439283 
-Sarus Crane
+01:30
 
-        0:47
-        
-Marc Anderson
-2018-08-31
- 08:00
-Australia
-Chong Swamp, Oyala-Thumutang NP, Queensland
-70
-call, song 
-bird-seen:no
-/439282/download
-XC439282 
-Torresian Crow
+France
 
-        0:52
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-call, song 
-bird-seen:no
-/439281/download
-XC439281 
-Torresian Crow
+Augan, Morbihan, Bretagne
 
-        1:53
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-call 
-bird-seen:no
-/439280/download
-XC439280 
-Rufous Fantail
+90
 
-        0:08
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-song 
-bird-seen:no
-/439279/download
-XC439279 
-Shining Flycatcher
+Migrating bird, flight call
 
-        0:23
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-call 
-bird-seen:no
-/439278/download
-XC439278 
-Large-billed Gerygone
+low frequences filter <500Hz
 
-        0:11
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-song 
-bird-seen:no
-/439277/download
-XC439277 
-Fairy Gerygone
+/439390/download
 
-        0:24
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-song 
-bird-seen:no
-/439276/download
-XC439276 
-Fairy Gerygone
+XC439390
 
-        0:25
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-song 
-Long rambling song
-/439275/download
-XC439275 
-Fairy Gerygone
+Cambodian Tailorbird
 
-        0:44
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-call, song 
-Soft calls and a few brief song phrases
-/439274/download
-XC439274 
-Tawny-breasted Honeyeater
+Ruddy Turnstone
 
-        0:19
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-song 
-bird-seen:no
-/439273/download
-XC439273 
-Yellow-spotted Honeyeater
+0:03
 
-        0:09
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-song 
-bird-seen:no
-/439272/download
-XC439272 
-Green Oriole
+Gaëtan Mineau
 
-        1:07
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-song 
-Several birds singing
-/439271/download
-XC439271 
-Green Oriole
+2018-10-19
 
-        0:48
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-call 
-Sneeze call
-/439270/download
-XC439270 
-White-browed Robin
+01:30
 
-        0:18
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-song 
-Whistled song along with soft chattering
-/439269/download
-XC439269 
-White-browed Robin
+France
 
-        0:36
-        
-Marc Anderson
-2018-08-30
- 08:00
-Australia
-Coen River, Oyala Thumotang National Park, Queensland
-80
-call, song 
-Sharp chopping notes along with some soft chattering
-/439268/download
-XC439268 
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
+Ruddy Turnstone
+
+0:03
+
+Gaëtan Mineau
+
+2018-10-19
+
+01:30
+
+France
+
+Augan, Morbihan, Bretagne
+
+90
+
+Migrating bird, flight call
+
+low frequences filter <500Hz
+
+/439390/download
+
+XC439390
+
+Cambodian Tailorbird
+
