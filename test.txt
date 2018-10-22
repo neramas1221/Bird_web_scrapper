@@ -1,780 +1,720 @@
-Ruddy Turnstone
+Moustached Turca
 
-0:03
+0:06
 
-Gaëtan Mineau
+Cristian Pinto
 
-2018-10-19
+2018-10-20
 
-01:30
+13:00
 
-France
+Chile
 
-Augan, Morbihan, Bretagne
+Farellones, Region Metropolitana
 
-90
+2500
 
-Migrating bird, flight call
+call
 
-low frequences filter <500Hz
+Perched on a stick, but calmly grooming their feathers.
 
-/439390/download
+/439561/download
 
-XC439390
+XC439561
 
-Cambodian Tailorbird
+Moustached Turca
 
-Ruddy Turnstone
+0:06
 
-0:03
+Cristian Pinto
 
-Gaëtan Mineau
+2018-10-20
 
-2018-10-19
+13:00
 
-01:30
+Chile
 
-France
+Farellones, Region Metropolitana
 
-Augan, Morbihan, Bretagne
+2500
 
-90
+call
 
-Migrating bird, flight call
+Perched on a stick. Like a distractor, display or something like that. After this call, another mustached turca crossed our scape of view silently to a an area behind the perched moustached turca
 
-low frequences filter <500Hz
+/439560/download
 
-/439390/download
+XC439560
 
-XC439390
 
-Cambodian Tailorbird
 
-Ruddy Turnstone
+1:26
 
-0:03
+Bernard BOUSQUET
 
-Gaëtan Mineau
+2018-06-10
 
-2018-10-19
+08:00
 
-01:30
+Tanzania
 
-France
+Karatu, Arusha Region
 
-Augan, Morbihan, Bretagne
+1500
 
-90
+song
 
-Migrating bird, flight call
+In the garden of Bashay Rift Lodge. Tchagra senegalus? Thank you for help. Bernard
 
-low frequences filter <500Hz
+/439559/download
 
-/439390/download
+XC439559
 
-XC439390
+Great Tit
 
-Cambodian Tailorbird
+0:34
 
-Ruddy Turnstone
+Alain Verneau
 
-0:03
+2018-06-04
 
-Gaëtan Mineau
-
-2018-10-19
-
-01:30
+18:00
 
 France
 
-Augan, Morbihan, Bretagne
+Théville, Manche, Normandie
 
-90
+70
 
-Migrating bird, flight call
+song
 
-low frequences filter <500Hz
+bird-seen:yes
 
-/439390/download
+/439558/download
 
-XC439390
+XC439558
 
-Cambodian Tailorbird
+Red Crossbill
 
-Ruddy Turnstone
+0:14
 
-0:03
+Frank Holzapfel
 
-Gaëtan Mineau
+2018-10-21
 
-2018-10-19
+10:26
 
-01:30
+Germany
 
-France
+Ludwigsburg (near Eberdingen), Stuttgart, Baden-Württemberg
 
-Augan, Morbihan, Bretagne
+360
 
-90
+flight call
 
-Migrating bird, flight call
+Type X. At least 2 Crossbills in flight over farmland. High-pass filter 1200 Hz 6 dB.
 
-low frequences filter <500Hz
+/439557/download
 
-/439390/download
+XC439557
 
-XC439390
+Red Crossbill
 
-Cambodian Tailorbird
+0:31
 
-Ruddy Turnstone
+Frank Holzapfel
 
-0:03
+2018-10-21
 
-Gaëtan Mineau
+10:13
 
-2018-10-19
+Germany
 
-01:30
+Ludwigsburg (near Eberdingen), Stuttgart, Baden-Württemberg
 
-France
+360
 
-Augan, Morbihan, Bretagne
+flight call
 
-90
+Type X. At least 9 Crossbills in flight over farmland and forest. High-pass filter 75 Hz 48 dB, 400 Hz 6 dB.
 
-Migrating bird, flight call
+/439556/download
 
-low frequences filter <500Hz
+XC439556
 
-/439390/download
+Red Crossbill
 
-XC439390
+0:27
 
-Cambodian Tailorbird
+Frank Holzapfel
 
-Ruddy Turnstone
+2018-10-21
 
-0:03
+09:39
 
-Gaëtan Mineau
+Germany
 
-2018-10-19
+Ludwigsburg (near Eberdingen), Stuttgart, Baden-Württemberg
 
-01:30
+340
 
-France
+flight call
 
-Augan, Morbihan, Bretagne
+Type C. In flight over farmland. High-pass filter 2000 Hz 6 dB.
 
-90
+/439555/download
 
-Migrating bird, flight call
+XC439555
 
-low frequences filter <500Hz
+Red Crossbill
 
-/439390/download
+2:54
 
-XC439390
+Frank Holzapfel
 
-Cambodian Tailorbird
+2018-10-20
 
-Ruddy Turnstone
+16:55
 
-0:03
+Germany
 
-Gaëtan Mineau
+Naturpark Stromberg-Heuchelberg, Baden-Württemberg
 
-2018-10-19
+280
 
-01:30
+call, flight call
 
-France
+Type X. A single Crossbill, first in flight, then perched on top of tall Fir at the edge of a Fir forest surrounded by deciduous and mixed forest. Then in flight again.
 
-Augan, Morbihan, Bretagne
+/439554/download
 
-90
+XC439554
 
-Migrating bird, flight call
+Marsh Warbler
 
-low frequences filter <500Hz
+0:45
 
-/439390/download
+Alain Verneau
 
-XC439390
+2018-06-03
 
-Cambodian Tailorbird
-
-Ruddy Turnstone
-
-0:03
-
-Gaëtan Mineau
-
-2018-10-19
-
-01:30
+21:30
 
 France
 
-Augan, Morbihan, Bretagne
+Saint-Fromond, Manche, Normandie
 
-90
+0
 
-Migrating bird, flight call
+song
 
-low frequences filter <500Hz
+bird-seen:yes
 
-/439390/download
+/439553/download
 
-XC439390
+XC439553
 
-Cambodian Tailorbird
+Common Chiffchaff
 
-Ruddy Turnstone
+0:16
 
-0:03
+Alain Verneau
 
-Gaëtan Mineau
+2018-06-04
 
-2018-10-19
-
-01:30
+18:00
 
 France
 
-Augan, Morbihan, Bretagne
+Théville, Manche, Normandie
 
-90
+70
 
-Migrating bird, flight call
+song
 
-low frequences filter <500Hz
+bird-seen:yes
 
-/439390/download
+/439552/download
 
-XC439390
+XC439552
 
-Cambodian Tailorbird
+Banded Woodpecker
 
-Ruddy Turnstone
+1:59
 
-0:03
+Greg Irving
 
-Gaëtan Mineau
+2018-10-20
 
-2018-10-19
+14:38
 
-01:30
+Thailand
 
-France
+Telecom Road, Wang Mai village, Chumphon
 
-Augan, Morbihan, Bretagne
+380
 
-90
+call
 
-Migrating bird, flight call
+bird-seen:yes
 
-low frequences filter <500Hz
+/439551/download
 
-/439390/download
+XC439551
 
-XC439390
+Northern Lapwing
 
-Cambodian Tailorbird
+0:10
 
-Ruddy Turnstone
+Alain Verneau
 
-0:03
+2018-06-04
 
-Gaëtan Mineau
-
-2018-10-19
-
-01:30
+14:30
 
 France
 
-Augan, Morbihan, Bretagne
+Réthoville, Manche, Normandie
 
-90
+0
 
-Migrating bird, flight call
+alarm call
 
-low frequences filter <500Hz
+bird-seen:yes
 
-/439390/download
+/439550/download
 
-XC439390
+XC439550
 
-Cambodian Tailorbird
+Red Crossbill
 
-Ruddy Turnstone
+0:27
 
-0:03
+Frank Holzapfel
 
-Gaëtan Mineau
+2018-10-20
 
-2018-10-19
+09:38
 
-01:30
+Germany
 
-France
+Ludwigsburg (near Eberdingen), Stuttgart, Baden-Württemberg
 
-Augan, Morbihan, Bretagne
+360
 
-90
+flight call
 
-Migrating bird, flight call
+Type X. In flight over farmland / forest in dense fog. High-pass filter 75 Hz 48 dB, 2000 Hz 6 dB.
 
-low frequences filter <500Hz
+/439549/download
 
-/439390/download
+XC439549
 
-XC439390
+Meadow Pipit
 
-Cambodian Tailorbird
+0:07
 
-Ruddy Turnstone
+Alain Verneau
 
-0:03
+2018-10-21
 
-Gaëtan Mineau
-
-2018-10-19
-
-01:30
+17:30
 
 France
 
-Augan, Morbihan, Bretagne
+Réthoville, Manche, Normandie
 
-90
+0
 
-Migrating bird, flight call
+flight call
 
-low frequences filter <500Hz
+bird-seen:yes
 
-/439390/download
+/439548/download
 
-XC439390
+XC439548
 
-Cambodian Tailorbird
+Vernal Hanging Parrot
 
-Ruddy Turnstone
+0:17
 
-0:03
+Greg Irving
 
-Gaëtan Mineau
+2018-10-21
 
-2018-10-19
+08:00
 
-01:30
+Thailand
 
-France
+Telecom Road, Wang Mai village, Chumphon
 
-Augan, Morbihan, Bretagne
+380
 
-90
+call
 
-Migrating bird, flight call
+bird-seen:yes
 
-low frequences filter <500Hz
+/439547/download
 
-/439390/download
+XC439547
 
-XC439390
+Eurasian Skylark
 
-Cambodian Tailorbird
+0:22
 
-Ruddy Turnstone
+Alain Verneau
 
-0:03
+2018-10-21
 
-Gaëtan Mineau
-
-2018-10-19
-
-01:30
+17:30
 
 France
 
-Augan, Morbihan, Bretagne
+Réthoville, Manche, Normandie
 
-90
+0
 
-Migrating bird, flight call
+flight call
 
-low frequences filter <500Hz
+bird-seen:yes
 
-/439390/download
+/439546/download
 
-XC439390
+XC439546
 
-Cambodian Tailorbird
+Vernal Hanging Parrot
 
-Ruddy Turnstone
+0:04
 
-0:03
+Greg Irving
 
-Gaëtan Mineau
+2018-10-21
 
-2018-10-19
+07:56
 
-01:30
+Thailand
 
-France
+Telecom Road, Wang Mai village, Chumphon
 
-Augan, Morbihan, Bretagne
+380
 
-90
+call
 
-Migrating bird, flight call
+bird-seen:yes
 
-low frequences filter <500Hz
+/439545/download
 
-/439390/download
+XC439545
 
-XC439390
+White-browed Piculet
 
-Cambodian Tailorbird
+0:05
 
-Ruddy Turnstone
+Greg Irving
 
-0:03
+2018-10-20
 
-Gaëtan Mineau
+13:11
 
-2018-10-19
+Thailand
 
-01:30
+Telecom Road, Wang Mai village, Chumphon
 
-France
+380
 
-Augan, Morbihan, Bretagne
+call
 
-90
+bird-seen:yes
 
-Migrating bird, flight call
+/439544/download
 
-low frequences filter <500Hz
+XC439544
 
-/439390/download
+European Stonechat
 
-XC439390
+0:11
 
-Cambodian Tailorbird
+Jorge Leitão
 
-Ruddy Turnstone
+2018-07-08
 
-0:03
+16:26
 
-Gaëtan Mineau
+Portugal
 
-2018-10-19
+Planalto da Mourela, Montalegre, Vila Real
 
-01:30
+1300
 
-France
+call
 
-Augan, Morbihan, Bretagne
+bird-seen:yes
 
-90
+/439543/download
 
-Migrating bird, flight call
+XC439543
 
-low frequences filter <500Hz
+Eurasian Skylark
 
-/439390/download
+0:12
 
-XC439390
+Jorge Leitão
 
-Cambodian Tailorbird
+2018-07-08
 
-Ruddy Turnstone
+16:26
 
-0:03
+Portugal
 
-Gaëtan Mineau
+Planalto da Mourela, Montalegre, Vila Real
 
-2018-10-19
+1300
 
-01:30
+call
 
-France
+bird-seen:yes
 
-Augan, Morbihan, Bretagne
+/439542/download
 
-90
+XC439542
 
-Migrating bird, flight call
+Blyth's Hawk-Eagle
 
-low frequences filter <500Hz
+0:31
 
-/439390/download
+Greg Irving
 
-XC439390
+2018-10-21
 
-Cambodian Tailorbird
+09:07
 
-Ruddy Turnstone
+Thailand
 
-0:03
+Telecom Road, Wang Mai village, Chumphon
 
-Gaëtan Mineau
+380
 
-2018-10-19
+call
 
-01:30
+bird-seen:yes
 
-France
+/439541/download
 
-Augan, Morbihan, Bretagne
+XC439541
 
-90
+Red-billed Malkoha
 
-Migrating bird, flight call
+1:02
 
-low frequences filter <500Hz
+Greg Irving
 
-/439390/download
+2018-10-21
 
-XC439390
+09:30
 
-Cambodian Tailorbird
+Thailand
 
-Ruddy Turnstone
+Telecom Road, Wang Mai village, Chumphon
 
-0:03
+380
 
-Gaëtan Mineau
+call, song
 
-2018-10-19
+bird-seen:yes
 
-01:30
+/439540/download
 
-France
+XC439540
 
-Augan, Morbihan, Bretagne
 
-90
 
-Migrating bird, flight call
+13:14
 
-low frequences filter <500Hz
+Cindy Moreno
 
-/439390/download
+2018-10-18
 
-XC439390
+10:30
 
-Cambodian Tailorbird
+Colombia
 
-Ruddy Turnstone
+Albán, Cundinamarca
 
-0:03
+2000
 
-Gaëtan Mineau
+song
 
-2018-10-19
+Habitat: Bosque Alto Andino
 
-01:30
+/439539/download
 
-France
+XC439539
 
-Augan, Morbihan, Bretagne
+Yellow-olive Flatbill
 
-90
+1:53
 
-Migrating bird, flight call
+Dan Lane
 
-low frequences filter <500Hz
+2009-10-22
 
-/439390/download
+11:00
 
-XC439390
+Peru
 
-Cambodian Tailorbird
+San Pedro, Cuzco
 
-Ruddy Turnstone
+1400
 
-0:03
+call, song
 
-Gaëtan Mineau
+Response to playback from a bird around the Cock-of-the-Rock Lodge grounds, about 10m up in subcanopy around edge of yard.
 
-2018-10-19
+/439538/download
 
-01:30
+XC439538
 
-France
+Crested Oropendola
 
-Augan, Morbihan, Bretagne
+0:12
 
-90
+Kevin alexander hernandez diaz
 
-Migrating bird, flight call
+2018-06-11
 
-low frequences filter <500Hz
+07:00
 
-/439390/download
+Colombia
 
-XC439390
+Casa de Zinc, Ataco, Tolima
 
-Cambodian Tailorbird
+1670
 
-Ruddy Turnstone
+song
 
-0:03
+Ave grabada en el borde y interior de un bosque, gracias por la ayuda
 
-Gaëtan Mineau
+/439537/download
 
-2018-10-19
+XC439537
 
-01:30
+Roadside Hawk
 
-France
+0:09
 
-Augan, Morbihan, Bretagne
+Kevin alexander hernandez diaz
 
-90
+2018-06-14
 
-Migrating bird, flight call
+16:00
 
-low frequences filter <500Hz
+Colombia
 
-/439390/download
+Casa de Zinc, Ataco, Tolima
 
-XC439390
+1650
 
-Cambodian Tailorbird
+call
 
-Ruddy Turnstone
+Ave grabada en el borde de un bosque, gracias por la ayuda
 
-0:03
+/439536/download
 
-Gaëtan Mineau
+XC439536
 
-2018-10-19
 
-01:30
 
-France
+0:06
 
-Augan, Morbihan, Bretagne
+Kevin alexander hernandez diaz
 
-90
+2018-06-13
 
-Migrating bird, flight call
+16:00
 
-low frequences filter <500Hz
+Colombia
 
-/439390/download
+Casa de Zinc, Ataco, Tolima
 
-XC439390
+1650
 
-Cambodian Tailorbird
+call
 
-Ruddy Turnstone
+Ave grabada en cafetales muy cerca a una vivienda, gracias por la ayuda
 
-0:03
+/439535/download
 
-Gaëtan Mineau
+XC439535
 
-2018-10-19
 
-01:30
 
-France
+0:23
 
-Augan, Morbihan, Bretagne
+Kevin alexander hernandez diaz
 
-90
+2018-06-16
 
-Migrating bird, flight call
+11:00
 
-low frequences filter <500Hz
+Colombia
 
-/439390/download
+Casa de Zinc, Ataco, Tolima
 
-XC439390
+1650
 
-Cambodian Tailorbird
+call
 
-Ruddy Turnstone
+Ave grabada en borde bosque y cafetal, gracias por la ayuda
 
-0:03
+/439534/download
 
-Gaëtan Mineau
+XC439534
 
-2018-10-19
+Dusky Warbler
 
-01:30
+0:06
 
-France
+Mikołaj Koss
 
-Augan, Morbihan, Bretagne
+2018-10-20
 
-90
+11:00
 
-Migrating bird, flight call
+Poland
 
-low frequences filter <500Hz
+Jurata, pucki, pomorskie
 
-/439390/download
+3
 
-XC439390
+call
 
-Cambodian Tailorbird
+bird-seen:yes
 
-Ruddy Turnstone
+/439533/download
 
-0:03
+XC439533
 
-Gaëtan Mineau
+Dunnock
 
-2018-10-19
+0:38
 
-01:30
+Piotr Szczypinski
 
-France
+2018-10-20
 
-Augan, Morbihan, Bretagne
+08:30
 
-90
+Poland
 
-Migrating bird, flight call
+Gmina Dzierzgowo (near Brzozowo-Maje), mławski, mazowieckie
 
-low frequences filter <500Hz
+180
 
-/439390/download
+call, flight call
 
-XC439390
+Two individuals.
 
-Cambodian Tailorbird
+/439532/download
 
-Ruddy Turnstone
-
-0:03
-
-Gaëtan Mineau
-
-2018-10-19
-
-01:30
-
-France
-
-Augan, Morbihan, Bretagne
-
-90
-
-Migrating bird, flight call
-
-low frequences filter <500Hz
-
-/439390/download
-
-XC439390
-
-Cambodian Tailorbird
+XC439532
 
