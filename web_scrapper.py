@@ -36,13 +36,9 @@ for row in range (1,len(rows)):
         data_two.append(info)
     data.append(data_two)
 
-#print(len(data))
-#print(len(cols))
-
 f = open("test.txt","w")
 for i in range(0,len(data)):
     for j in range(0,len(cols)-1):
-        #print(str(data[i][j]))
         f.write(str(data[i][j]) + "\n\n")
 
 f.close()
