@@ -80,7 +80,7 @@ while cont:
     else:
         table_data = np.vstack((table_data, row_Data))
     
-    if page_counter >=3:#len(row_Data) != 30:
+    if len(row_Data) != 30:
         cont = False
     else:
         page_counter = page_counter + 1
