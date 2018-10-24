@@ -29,8 +29,10 @@ while cont:
         cols     = rows[row].find_all('td')
         col_Data = []
         for col in range(1, len(cols)):
-
-            info = cols[col].contents[0]
+            if cols[col].contents !=[]:
+                info = cols[col].contents[0]
+            else:
+                info = " "
             if cols[col].find_all('p') != []:
                 info = cols[col].find('p')
                 info = info.contents[0]
@@ -62,16 +64,16 @@ while cont:
             f.write(str(row_Data[i][j]) + "\n\n")
 
     f.close()
-    for i in range(0, len(row_Data)):
+    # for i in range(0, len(row_Data)):
 
-       print("Downloading...")
-       r = requests.get(download_url + str(row_Data[i][11]), stream=True)
-       with open(folder+str(row_Data[i][12])+".mp3", 'wb') as f:
-           for chunk in r.iter_content(chunk_size=1024):
-               if chunk:
-                   f.write(chunk)
-       f.close()
-       print("...Done")
+    #    print("Downloading...")
+    #    r = requests.get(download_url + str(row_Data[i][11]), stream=True)
+    #    with open(folder+str(row_Data[i][12])+".mp3", 'wb') as f:
+    #        for chunk in r.iter_content(chunk_size=1024):
+    #            if chunk:
+    #                f.write(chunk)
+    #    f.close()
+    #    print("...Done")
 
     time.sleep(0.1)
     
@@ -85,10 +87,9 @@ while cont:
     else:
         page_counter = page_counter + 1
 
-output = pd.DataFrame(table_data,columns=['Common name','Length','Recordist','Date','Time','Country',
-                                          'Location','Elev. (m)','Type','Remarks','Rating','Download link',
-                                          'ID'])
+output = pd.DataFrame(table_data,columns = ['Common name','Length','Recordist','Date','Time','Country',
+                                            'Location','Elev. (m)','Type','Remarks','Rating','Download link',
+                                            'ID'])
 output.to_csv("data_set.csv")
 print(table_data.size)
 print(table_data.shape)
-#print(table_data)
