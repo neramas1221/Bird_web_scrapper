@@ -21,7 +21,6 @@ while cont:
     print("loop " + str(page_counter))
     row_Data     = []
     page         = requests.get(page_url + str(page_counter))
-    print(page_url + str(page_counter))
     soup         = BeautifulSoup(page.text, 'lxml')
     table        = soup.find(class_="results")
     rows         = table.find_all('tr')
@@ -64,12 +63,9 @@ while cont:
 
             f.write(str(row_Data[i][j]) + "\n\n")
     f.close()
-    # for i in range(0, len(row_Data)):
-
+    for i in range(0, len(row_Data)):
         print("Downloading...")
-        print((download_url + str(row_Data[i][11])))
         if "img" not in (download_url + str(row_Data[i][11])):
-            print("in if")
     
             r = requests.get(download_url + str(row_Data[i][11]), stream=True)
             with open(folder+str(row_Data[i][12])+".mp3", 'wb') as f:
