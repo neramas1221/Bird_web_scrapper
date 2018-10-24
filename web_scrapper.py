@@ -59,19 +59,23 @@ while cont:
     f = open("test.txt", "w")
     for i in range(0, len(row_Data)):
         for j in range(0, len(cols)):
-            f.write(str(row_Data[i][j]) + "\n\n")
 
+            f.write(str(row_Data[i][j]) + "\n\n")
     f.close()
     for i in range(0, len(row_Data)):
 
-       print("Downloading...")
-       r = requests.get(download_url + str(row_Data[i][11]), stream=True)
-       with open(folder+str(row_Data[i][12])+".mp3", 'wb') as f:
-           for chunk in r.iter_content(chunk_size=1024):
-               if chunk:
-                   f.write(chunk)
-       f.close()
-       print("...Done")
+        print("Downloading...")
+        print((download_url + str(row_Data[i][11])))
+        if "img" not in (download_url + str(row_Data[i][11])):
+            print("in if")
+    
+            r = requests.get(download_url + str(row_Data[i][11]), stream=True)
+            with open(folder+str(row_Data[i][12])+".mp3", 'wb') as f:
+                for chunk in r.iter_content(chunk_size=1024):
+                    if chunk:
+                        f.write(chunk)
+            f.close()
+        print("...Done")
 
     time.sleep(0.1)
     
