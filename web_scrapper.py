@@ -3,11 +3,12 @@ from bs4 import BeautifulSoup
 import time
 import numpy as np
 import pandas as pd
+import re
 
 page_counter = 1
 page_url     = "https://www.xeno-canto.org/explore?dir=0&order=xc&pg="
 download_url = "https://www.xeno-canto.org"
-folder       = "./sounds/"
+folder       = "/media/neramas1221/2839FF5B76D5A225/sounds/"
 """page         = requests.get(page_url + str(page_counter))
 soup         = BeautifulSoup(page.text, 'lxml')
 table        = soup.find(class_="results")
@@ -57,11 +58,12 @@ while cont:
             info = " ".join(str(info).split())
             col_Data.append(info)
         row_Data.append(col_Data)
-    f = open("test.txt", "w")
+    f = open("/media/neramas1221/2839FF5B76D5A225/bird_data.txt", "a")
     for i in range(0, len(row_Data)):
         for j in range(0, len(cols)):
-
-            f.write(str(row_Data[i][j]) + "\n\n")
+            row_Data[i][j] = re.sub('[!@#$"]', '', row_Data[i][j])
+            f.write('"' + str(row_Data[i][j]) + '"'  + ",")
+        f.write("\n")
     f.close()
     for i in range(0, len(row_Data)):
         print("Downloading...")
@@ -77,19 +79,19 @@ while cont:
 
     time.sleep(0.1)
     
-    if page_counter == 1:
-        table_data = np.array(row_Data)
-    else:
-        table_data = np.vstack((table_data, row_Data))
+    # if page_counter == 1:
+    #     table_data = np.array(row_Data)
+    # else:
+    #     table_data = np.vstack((table_data, row_Data))
     
     if len(row_Data) != 30:
         cont = False
     else:
         page_counter = page_counter + 1
 
-output = pd.DataFrame(table_data,columns = ['Common name','Length','Recordist','Date','Time','Country',
-                                            'Location','Elev. (m)','Type','Remarks','Rating','Download link',
-                                            'ID'])
-output.to_csv("data_set.csv")
+#output = pd.DataFrame(table_data,columns = ['Common name','Length','Recordist','Date','Time','Country',
+ #                                           'Location','Elev. (m)','Type','Remarks','Rating','Download link',
+  #                                          'ID'])
+#output.to_csv("data_set.csv")
 print(table_data.size)
 print(table_data.shape)
