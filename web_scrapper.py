@@ -5,14 +5,10 @@ import numpy as np
 import pandas as pd
 import re
 
-page_counter = 1
+page_counter = 8040 #8575
 page_url     = "https://www.xeno-canto.org/explore?dir=0&order=xc&pg="
 download_url = "https://www.xeno-canto.org"
-folder       = "/media/neramas1221/2839FF5B76D5A225/sounds/"
-"""page         = requests.get(page_url + str(page_counter))
-soup         = BeautifulSoup(page.text, 'lxml')
-table        = soup.find(class_="results")
-rows         = table.find_all('tr') """
+folder       =  "/media/neramas1221/Maxtor/sounds/"
 row_Data     = []
 col_Data     = []
 cont         = True
@@ -58,10 +54,10 @@ while cont:
             info = " ".join(str(info).split())
             col_Data.append(info)
         row_Data.append(col_Data)
-    f = open("/media/neramas1221/2839FF5B76D5A225/bird_data.txt", "a")
+    f = open("/media/neramas1221/Maxtor/bird_data_text.txt", "a")
     for i in range(0, len(row_Data)):
         for j in range(0, len(cols)):
-            row_Data[i][j] = re.sub('[!@#$"]', '', row_Data[i][j])
+            row_Data[i][j] = re.sub('[!@#$",]', '', row_Data[i][j])
             f.write('"' + str(row_Data[i][j]) + '"'  + ",")
         f.write("\n")
     f.close()
